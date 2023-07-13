@@ -16,7 +16,10 @@
   </h1>
 </div>
 
-Glad to see you here! You're number: **![Visitor Count](https://profile-counter.glitch.me/{reidsmiller.reidsmiller}/count.svg)**
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <!--
 **reidsmiller/reidsmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
