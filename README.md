@@ -29,9 +29,9 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: I've worked mainly with Ruby on Rails <img src="https://media.giphy.com/media/d8qnk0u59kKtSdiOsO/giphy.gif" width="30">, but also spent some time working with R and Python, and I'm familiar with HTML and CSS.
 
-- :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="30">, salsa dancing <img src="https://media.giphy.com/media/ujdqAehTxwdmi3iayv/giphy.gif" width="30"> and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
+- :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, salsa dancing <img src="https://media.giphy.com/media/ujdqAehTxwdmi3iayv/giphy.gif" width="40"> and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reid-s-miller/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Miller-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reid-s-miller/)
 <!--
 **reidsmiller/reidsmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
