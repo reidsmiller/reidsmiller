@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://terminal.turing.edu/alumni/1905-reid-miller">
-      <img src="https://img.shields.io/badge/Portfolio-green" alt="Terminal Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-green?style=flat-square" alt="Terminal Portfolio"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=reidsmiller&style=flat-square&color=blue" alt=""/>
