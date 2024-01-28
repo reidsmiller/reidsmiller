@@ -21,8 +21,6 @@
 ### :man_technologist: About Me :
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Boulder Colorado.
 
-- :telescope: I'm looking for work as a software engineer after graduating from Turing School of Software and Design.
-
 - :seedling: I'm changing careers from Emergecy Medical Services where I worked as an EMT for 12 years <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
 
 - :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, meditation <img src="https://media.giphy.com/media/CtzI7gR1KXUWN6oE9C/giphy.gif" width="30">, salsa dancing <img src="https://media.giphy.com/media/ujdqAehTxwdmi3iayv/giphy.gif" width="40"> and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
