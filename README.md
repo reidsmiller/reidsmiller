@@ -23,7 +23,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 I'm currently working as a C# and Telerik Test Studio Test Developer for a scheduling software company.
 
-- :seedling: I'm changing careers from Emergecy Medical Services where I worked as an EMT for 12 years <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
+- :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
 
 - :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, meditation <img src="https://media.giphy.com/media/CtzI7gR1KXUWN6oE9C/giphy.gif" width="30">, salsa dancing <img src="https://media.giphy.com/media/ujdqAehTxwdmi3iayv/giphy.gif" width="40"> and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
 
