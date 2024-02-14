@@ -54,6 +54,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title ="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet Core"  alt="DotNet Core" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="DotNet Core"  alt="DotNet Core" width="40" height="40"/>&nbsp;
 </div>
 
 ---
