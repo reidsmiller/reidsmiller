@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Boulder Colorado.
 
-- 🔭 I'm currently working as a C# and Telerik Test Studio Test Developer for a scheduling software company.
+- 🔭 I'm currently working as a C#, .Net and Telerik Test Studio Test Developer for a scheduling software company.
 
 - :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
 
