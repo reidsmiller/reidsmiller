@@ -25,7 +25,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
 
-- :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, meditate <img src="https://media.giphy.com/media/CtzI7gR1KXUWN6oE9C/giphy.gif" width="30">, salsa dancing <img src="https://media.giphy.com/media/ujdqAehTxwdmi3iayv/giphy.gif" width="40"> and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
+- :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, meditate <img src="https://media.giphy.com/media/CtzI7gR1KXUWN6oE9C/giphy.gif" width="30">, and also enjoy climbing and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Miller-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reid-s-miller/)
 
