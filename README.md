@@ -4,11 +4,8 @@
     <a href="https://www.linkedin.com/in/reid-s-miller/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://terminal.turing.edu/alumni/1905-reid-miller">
-      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Terminal Portfolio"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=reidsmiller&style=flat-square&color=blue" alt=""/>
+  </div>
 
   <h1>
     hey there
