@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Palo Alto, California.
+I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Menlo Park, California.
 
 - 🔭 I'm currently working as a full stack Developer for ScheduleSource, primarily using C#, Javascript, MAUI, Blazor, and .NET 8 Core.
 
