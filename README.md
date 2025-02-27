@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Menlo Park, California.
 
-- 🔭 I'm currently working as a .NET developer for ScheduleSource, Inc. primarily using C#, Javascript, MAUI, Blazor, and .NET 8 Core.
+- 🔭 I'm currently working as a .NET developer for ScheduleSource, Inc. primarily using C#, Javascript, MAUI, Blazor, and .NET 8 Core. We use a combination of Team Foundation Server as version control for the main web application and GitHub for all ancillary products.
 
 - :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
 
@@ -44,17 +44,3 @@ I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-<!--
-**reidsmiller/reidsmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
