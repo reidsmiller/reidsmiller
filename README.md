@@ -19,7 +19,7 @@ I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I'm currently working as a .NET developer for ScheduleSource, Inc. primarily using .NET MAUI/Blazor and .NET Core. We use a combination of Team Foundation Server as version control for the main web application and GitHub for all ancillary products.
 
-- :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">.
+- :seedling: Previously I worked in Emergecy Medical Services as an EMT for 12 years both on ambulances and in the Emergency Department <img src="https://media.giphy.com/media/pmTj9ODkrZohVkh66M/giphy.gif" width="30">, and was Director of Health and Safety at a mountain spiritual retreat center.
 
 - :zap: In my free time I play violin, piano and guitar <img src="https://media.giphy.com/media/lCuWXor5LZ36IgfNVc/giphy.gif" width="20">, and also enjoy swimming and biking <img src="https://media.giphy.com/media/fldfO2X6SBo4T0Jz6c/giphy.gif" width="30">
 
